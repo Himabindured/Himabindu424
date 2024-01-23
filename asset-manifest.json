@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Himabindureddy/static/css/main.f855e6bc.css",
+    "main.js": "/Himabindureddy/static/js/main.0c1f1edc.js",
+    "static/js/787.0f7dc5a1.chunk.js": "/Himabindureddy/static/js/787.0f7dc5a1.chunk.js",
+    "static/media/logo.svg": "/Himabindureddy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Himabindureddy/index.html",
+    "main.f855e6bc.css.map": "/Himabindureddy/static/css/main.f855e6bc.css.map",
+    "main.0c1f1edc.js.map": "/Himabindureddy/static/js/main.0c1f1edc.js.map",
+    "787.0f7dc5a1.chunk.js.map": "/Himabindureddy/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0c1f1edc.js"
+  ]
+}
