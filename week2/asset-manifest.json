@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Himabindu424/static/css/main.e6c13ad2.css",
+    "main.js": "/Himabindu424/static/js/main.cfa836cf.js",
+    "static/js/787.0f7dc5a1.chunk.js": "/Himabindu424/static/js/787.0f7dc5a1.chunk.js",
+    "index.html": "/Himabindu424/index.html",
+    "main.e6c13ad2.css.map": "/Himabindu424/static/css/main.e6c13ad2.css.map",
+    "main.cfa836cf.js.map": "/Himabindu424/static/js/main.cfa836cf.js.map",
+    "787.0f7dc5a1.chunk.js.map": "/Himabindu424/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cfa836cf.js"
+  ]
+}
