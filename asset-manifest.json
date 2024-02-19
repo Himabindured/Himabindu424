@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Himabindu424/static/css/main.f96f07a4.css",
-    "main.js": "/Himabindu424/static/js/main.5f6507ec.js",
-    "static/js/592.167abb64.chunk.js": "/Himabindu424/static/js/592.167abb64.chunk.js",
+    "main.css": "/Himabindu424/static/css/main.e6c13ad2.css",
+    "main.js": "/Himabindu424/static/js/main.0901dd88.js",
+    "static/js/453.1b6cbde4.chunk.js": "/Himabindu424/static/js/453.1b6cbde4.chunk.js",
     "index.html": "/Himabindu424/index.html",
-    "main.f96f07a4.css.map": "/Himabindu424/static/css/main.f96f07a4.css.map",
-    "main.5f6507ec.js.map": "/Himabindu424/static/js/main.5f6507ec.js.map",
-    "592.167abb64.chunk.js.map": "/Himabindu424/static/js/592.167abb64.chunk.js.map"
+    "main.e6c13ad2.css.map": "/Himabindu424/static/css/main.e6c13ad2.css.map",
+    "main.0901dd88.js.map": "/Himabindu424/static/js/main.0901dd88.js.map",
+    "453.1b6cbde4.chunk.js.map": "/Himabindu424/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f96f07a4.css",
-    "static/js/main.5f6507ec.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0901dd88.js"
   ]
 }
